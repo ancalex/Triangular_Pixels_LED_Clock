@@ -1,2 +1,2 @@
-# Triangular_Pixels-_LED_Clock
+# Triangular_Pixels-LED_Clock
 More info on instructables.com
